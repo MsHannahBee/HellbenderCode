@@ -3,10 +3,10 @@
  * 9/3/20 create commands for setting RTC
  */
 
-#include "Commands.h";
-#include "Calibrations.h";
-#include "GravityPh.h";
-#include "GravityEc.h";
+#include "Commands.h"
+#include "Calibrations.h"
+#include "GravityPh.h"
+#include "GravityEc.h"
 #include "GravityDo.h"
 #include "GravityOrp.h"
 #include "GravityTemperature.h"
